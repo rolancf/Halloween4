@@ -1,1 +1,3 @@
 Color para los globos.
+Efecto revisado.
+Revisar defectuosos.
